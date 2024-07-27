@@ -1,2 +1,2 @@
 worker: chmod +x *
-worker: python m.py
+worker: python3 main.py
